@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on **Web Development**
-- 🌱 I’m currently learning **C++**, **Backend Development**, 
+- 🌱 I’m currently learning **C++**, **Backend Development**, and getting started with **Android Development** 
 
 <!--
 - 👯 I’m looking to collaborate on ...
