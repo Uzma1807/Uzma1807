@@ -9,16 +9,17 @@ Here are some ideas to get you started:
 </br>
 
 
-- 🔭 I’m currently working on **Web Development**
-- 🌱 I’m learning **C++**, **Backend Development**, and getting started with **Android Development** 
-
+- 🔭 I’m currently working on **Web Development**.
+- 🌱 I’m learning **C++**, **Backend Development**, and getting started with **Android Development**.
+- 🤔 I’m looking for help with **Programming** and **Development**.
+- 😄 _Constructive criticism appreciated!_
 <!--
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 -->
 - 📫 Reach me out at: **um.uzma1807@gmail.com**
 
