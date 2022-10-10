@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on **Web Development**.
-- 🌱 I’m learning **C++**, **Backend Development**, and getting started with **Android Development**.
+- 🌱 I’m learning **Data Structure and Alogorithms**, **Object Oriented Programming**, **Backend Development**, and getting started with **Android Development**.
 - 🤔 I’m looking for help with **Programming** and **Development**.
 - 😄 _Constructive criticism appreciated!_
 <!--
