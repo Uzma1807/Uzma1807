@@ -13,14 +13,13 @@ Here are some ideas to get you started:
 - 🌱 I’m learning **Data Structure and Alogorithms**, **Object Oriented Programming**, **Backend Development**, and getting started with **Android Development**.
 - 🤔 I’m looking for help with **Programming** and **Development**.
 - 😄 _Constructive criticism appreciated!_
-- - ⚡ Fun fact: Loving Louis Tomlinson 
 <!--
 - 👯 I’m looking to collaborate on ...
 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-
+- ⚡ Fun fact: Loving Louis Tomlinson 
 -->
 - 📫 Reach me out at: **um.uzma1807@gmail.com**
 
